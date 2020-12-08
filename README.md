@@ -108,7 +108,7 @@
 	1. [Operations_on_word_vectors_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week2/Operations_on_word_vectors_v2a.ipynb)
 	2. [Emojify!.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week2/Emojify!.ipynb "Emojify!.ipynb")
 - week3
-	1. not completed..
+	1. [Neural_machine_translation_with_attention_v4a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week3/Neural_machine_translation_with_attention_v4a.ipynb)
 
 
 
