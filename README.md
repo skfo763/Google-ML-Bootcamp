@@ -84,7 +84,7 @@
 
 
 #### 3 3rd course : Structuring Machine Learning Projects
-	- *세 번째 코스에는 과제가 없습니다*
+	- 세 번째 코스에는 과제가 없습니다
 
 #### 4. 4th course : Convolutional Neural Networks
 - week1
@@ -109,6 +109,7 @@
 	2. [Emojify!.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week2/Emojify!.ipynb "Emojify!.ipynb")
 - week3
 	1. [Neural_machine_translation_with_attention_v4a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week3/Neural_machine_translation_with_attention_v4a.ipynb)
+	2. [Trigger_word_detection_v1a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course5/week3/Trigger_word_detection_v1a.ipynb)
 
 
 
