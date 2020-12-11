@@ -64,7 +64,7 @@
 #### 1st course : Neural Networks and Deep Learning
 - week2
 	1. [Logistic_Regression_with_a_Neural_mindset_Kor_ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course1/week2/Logistic_Regression_with_a_Neural_Network_mindset_Kor.ipynb)
-	- week3
+- week3
 	1. [Planar_data_classification_with_onehidden_layer_v6c.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course1/week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 - week4
 	1. [Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/blob/main/course1/week4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
