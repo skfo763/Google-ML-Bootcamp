@@ -63,24 +63,24 @@
 
 #### 1st course : Neural Networks and Deep Learning
 - week2
-	1. [Logistic_Regression_with_a_Neural_mindset_Kor_ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course1/week2/Logistic_Regression_with_a_Neural_Network_mindset_Kor.ipynb)
+	1. [Logistic_Regression_with_a_Neural_mindset_Kor_ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course1/week2/Logistic_Regression_with_a_Neural_Network_mindset_Kor.ipynb)
 - week3
-	1. [Planar_data_classification_with_onehidden_layer_v6c.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course1/week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
+	1. [Planar_data_classification_with_onehidden_layer_v6c.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course1/week3/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 - week4
-	1. [Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course1/week4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+	1. [Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course1/week4/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
 	2. [Deep_Neural_Network_Application_v8_ipynb](https://github.com/skfo763/Google-ML-Bootcamp-phase1/tree/main/course1/week4)
 
 
 
 #### 2nd course : Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - week1
-	1. [Gradient_Checking_v1.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course2/week1/Gradient_Checking_v1.ipynb)
-	2. [Initialization.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course2/week1/Initialization.ipynb)
-	3. [Regularization_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course2/week1/Regularization_v2a.ipynb)
+	1. [Gradient_Checking_v1.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course2/week1/Gradient_Checking_v1.ipynb)
+	2. [Initialization.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course2/week1/Initialization.ipynb)
+	3. [Regularization_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course2/week1/Regularization_v2a.ipynb)
 - week2
-	1. [Optimization_methods_v1b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course2/week2/Optimization_methods_v1b.ipynb)
+	1. [Optimization_methods_v1b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course2/week2/Optimization_methods_v1b.ipynb)
 - week3
-	1. [TensorFlow_Tutorial_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course2/week3/TensorFlow_Tutorial_v3b.ipynb)
+	1. [TensorFlow_Tutorial_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course2/week3/TensorFlow_Tutorial_v3b.ipynb)
 
 
 #### 3 3rd course : Structuring Machine Learning Projects
@@ -88,28 +88,28 @@
 
 #### 4. 4th course : Convolutional Neural Networks
 - week1
-	1. [Convolution_model_Application_v1a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week1/Convolution_model_Application_v1a.ipynb)
-	2. [Convolution_model_Step_by_Step_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week1/Convolution_model_Step_by_Step_v2a.ipynb)
+	1. [Convolution_model_Application_v1a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week1/Convolution_model_Application_v1a.ipynb)
+	2. [Convolution_model_Step_by_Step_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week1/Convolution_model_Step_by_Step_v2a.ipynb)
 - week2
-	1. [Keras_Tutorial_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week2/Keras_Tutorial_v2a.ipynb)
-	2. [Residual_Networks_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week2/Residual_Networks_v2a.ipynb)
+	1. [Keras_Tutorial_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week2/Keras_Tutorial_v2a.ipynb)
+	2. [Residual_Networks_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week2/Residual_Networks_v2a.ipynb)
 - week3
-	1. [Autonomous_driving_application_Car_detection_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
+	1. [Autonomous_driving_application_Car_detection_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week3/Autonomous_driving_application_Car_detection_v3a.ipynb)
 - week4
-	1. [Art_Generation_with_Neural_Style_Transfer_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb "Art_Generation_with_Neural_Style_Transfer_v3a.ipynb")
-	2. [Face_Recognition_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course4/week4/Face_Recognition_v3a.ipynb)
+	1. [Art_Generation_with_Neural_Style_Transfer_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week4/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb "Art_Generation_with_Neural_Style_Transfer_v3a.ipynb")
+	2. [Face_Recognition_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course4/week4/Face_Recognition_v3a.ipynb)
 
 #### 5. 5th course : Sequence Models
 - week1
-	1. [Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
-	2. [Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week1/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
-	3. [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+	1. [Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week1/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
+	2. [Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week1/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+	3. [Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week1/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
 - week2
-	1. [Operations_on_word_vectors_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week2/Operations_on_word_vectors_v2a.ipynb)
-	2. [Emojify!.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week2/Emojify!.ipynb "Emojify!.ipynb")
+	1. [Operations_on_word_vectors_v2a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week2/Operations_on_word_vectors_v2a.ipynb)
+	2. [Emojify!.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week2/Emojify!.ipynb "Emojify!.ipynb")
 - week3
-	1. [Neural_machine_translation_with_attention_v4a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week3/Neural_machine_translation_with_attention_v4a.ipynb)
-	2. [Trigger_word_detection_v1a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1course5/week3/Trigger_word_detection_v1a.ipynb)
+	1. [Neural_machine_translation_with_attention_v4a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week3/Neural_machine_translation_with_attention_v4a.ipynb)
+	2. [Trigger_word_detection_v1a.ipynb](https://github.com/skfo763/Google-ML-Bootcamp/blob/main/phase1/course5/week3/Trigger_word_detection_v1a.ipynb)
 
 
 
