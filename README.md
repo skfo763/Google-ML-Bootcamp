@@ -114,8 +114,7 @@
 
 
 ## 2. Learning - Certification
-취득 중입니다...
-
+- [Tensorflow Developer Certificate](https://www.tensorflow.org/certificate?hl=ko) 자격증 취득 완료 : [자격증 링크](https://www.credential.net/e18ba0ba-4d90-4bb7-ac87-97ead6832ab3#gs.p887lr)
 
 
 ## Contributing
