@@ -84,7 +84,7 @@
 
 
 #### 3 3rd course : Structuring Machine Learning Projects
-	- 세 번째 코스에는 과제가 없습니다
+세 번째 코스에는 과제가 없습니다
 
 #### 4. 4th course : Convolutional Neural Networks
 - week1
